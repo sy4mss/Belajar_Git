@@ -1,1 +1,2 @@
 belajar push git
+belajar pull github
